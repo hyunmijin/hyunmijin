@@ -1,3 +1,9 @@
+<style>
+body { 
+  background color : #ccc
+  }
+</style>
+
 ### Hi there 👋
 
 <!--
