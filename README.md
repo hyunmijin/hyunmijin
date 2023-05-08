@@ -37,9 +37,13 @@ Here are some ideas to get you started:
 
 💗<br><br>
 <p> 
-  <img src="https://github-readme-stats.vercel.app/api?username=ysjang0926&theme=vue&show_icons=true"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=hyunmijin&theme=vue&show_icons=true"/></a>
 </p>
 
+💗
 <br><br>
--블로그
+티스토리
+https://mi-1119.tistory.com/
+
+<br><br>블로그
 https://hyunmijin.github.io/web2023/
