@@ -40,12 +40,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=hyunmijin&theme=vue&show_icons=true"/></a>
 </p>
 
-💗
-<br><br>
-티스토리
+💗 티스토리
 https://mi-1119.tistory.com/
 <br><br>
 
-💗
-<br><br>블로그
+💗 블로그
 https://hyunmijin.github.io/web2023/
