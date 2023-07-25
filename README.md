@@ -45,7 +45,8 @@ Here are some ideas to get you started:
   <li>PHP BLOG 사이트 : https://github.com/hyunmijin/php_blog</li>
   <li>PHP TEAM PROJECT : https://github.com/hyunmijin/php_Team/tree/main</li>
 </ul>
-<ul>자바스크립트 효과
+<ul>
+  <h3>자바스크립트 효과</h3>
  <li>GSAP : https://github.com/hyunmijin/web2023_portfolio</li>
  <li>parallax : https://github.com/hyunmijin/web2023_parallax</li>
  <li>QUIZ : https://github.com/hyunmijin/web2023_quiz_effect/tree/main</li>
@@ -53,7 +54,7 @@ Here are some ideas to get you started:
  <li>mouse : https://github.com/hyunmijin/web2023_mouse_effect/tree/main</li>
  <li>Game : https://github.com/hyunmijin/Game</li>
 </ul>
-
+<br><br><br><br>
 
 💗<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunmijin&layout=compact)](https://github.com/hyunmijin/github-readme-stats)
