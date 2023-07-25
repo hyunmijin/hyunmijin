@@ -35,6 +35,26 @@ Here are some ideas to get you started:
 </div>
 <br><br><br><br>
 
+## WORK LIST
+<ul>
+  <li>PORTFOLIO : https://github.com/hyunmijin/portfolio</li>
+  <li>작가 소개 사이트(다양한 프레임워크 사용) : https://github.com/hyunmijin/site-react03__</li>
+  <li>유투브 API(음악 추천 사이트) : https://github.com/hyunmijin/site-youtube01</li>
+  <li>clone : https://github.com/hyunmijin/clone_Johnsite</li>
+  <li>웹표준사이트 : https://github.com/hyunmijin/web2023_coffee-site</li>
+  <li>PHP BLOG 사이트 : https://github.com/hyunmijin/php_blog</li>
+  <li>PHP TEAM PROJECT : https://github.com/hyunmijin/php_Team/tree/main</li>
+</ul>
+<ul>자바스크립트 효과
+ <li>GSAP : https://github.com/hyunmijin/web2023_portfolio</li>
+ <li>parallax : https://github.com/hyunmijin/web2023_parallax</li>
+ <li>QUIZ : https://github.com/hyunmijin/web2023_quiz_effect/tree/main</li>
+ <li>slider : https://github.com/hyunmijin/web2023_slider</li>
+ <li>mouse : https://github.com/hyunmijin/web2023_mouse_effect/tree/main</li>
+ <li>Game : https://github.com/hyunmijin/Game</li>
+</ul>
+
+
 💗<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunmijin&layout=compact)](https://github.com/hyunmijin/github-readme-stats)
 <br><br>
