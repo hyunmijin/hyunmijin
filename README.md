@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </div>
 <br><br><br><br>
 
-## WORK LIST
+##  WORK LIST
 <ul>
   <li>PORTFOLIO : https://github.com/hyunmijin/portfolio</li>
   <li>작가 소개 사이트(다양한 프레임워크 사용) : https://github.com/hyunmijin/site-react03__</li>
